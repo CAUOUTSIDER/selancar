@@ -1361,78 +1361,6 @@ http://38.47.189.134:1234/stream/astro/astroceria/master.m3u8?u=hometv&p=23661eb
 #EXTINF:-1 group-title="● MALAYSIA ●" tvg-id="astroria.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png?20240207105003",ASTRO AURA
 http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3467
 
-              ●●●●● SINGAPORE ●●●●●
-
-
-
-#EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://dl.dropbox.com/scl/fi/1tkvjgdvijgvs76m108zw/ch5.png?rlkey=3gii1v2ofhgnmdyoct6t2y0w1&st=846fr21k&dl=0",Channel 5 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-
-#EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://dl.dropbox.com/scl/fi/agkwacfj7fr30cfocb7pc/ch8.png?rlkey=3jg3vpt9xch5o8bmzxbbnkoxn&st=rz0wbrkd&dl=0",Channel 8 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-
-#EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://dl.dropbox.com/scl/fi/vweqr1c4yi9uxczb47zwa/chu.png?rlkey=hsgrz75sw3i0qehqbnby4aiuu&st=bclvasjq&dl=0",Channel U 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMM2M3QTBCU3B4M3BNZmtKdEtyLVg4akxLRUpBVG9YOEdTLWktZFczUWdrUjVMc0puRXJoakR1cVpVRjI4c2tZQ01JM2Z1S3RhdG9idWszUlgwX3Q3LTEwZnNBdzhvMGhjSnl3MFVOWkY4STBvVl9QVDdob0R4N2Nnb2taemg4eWFQdnE1UlhiaS1UMVpuc19rR0h3UEJWeWhRMk9iaTB1SGtydUNsUmE1T3lBdWpvbVJlQ0ltVUJIRmt0VkFxZEM0dzBfdFRWeF9qM3R4UEdSalpSUnlsZ2hpRVU2REtMM05ZSm5iYi1JUGpkUWpRYkZfbVdBV3IxV2IxZnhXTzN5c2oxUnNqcFlrWWNORzhUUnFkN0lWTFRpeW1kTDIzSnBnM2pMN0lXQld2ZktOdzVJMXh5eVlWVGRSQ3N5b1pOZkE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMM2M3QTBCU3B4M3BNZmtKdEtyLVg4akxLRUpBVG9YOEdTLWktZFczUWdrUjVMc0puRXJoakR1cVpVRjI4c2tZQ01JM2Z1S3RhdG9idWszUlgwX3Q3LTEwZnNBdzhvMGhjSnl3MFVOWkY4STBvVl9QVDdob0R4N2Nnb2taemg4eWFQdnE1UlhiaS1UMVpuc19rR0h3UEJWeWhRMk9iaTB1SGtydUNsUmE1T3lBdWpvbVJlQ0ltVUJIRmt0VkFxZEM0dzBfdFRWeF9qM3R4UEdSalpSUnlsZ2hpRVU2REtMM05ZSm5iYi1JUGpkUWpRYkZfbVdBV3IxV2IxZnhXTzN5c2oxUnNqcFlrWWNORzhUUnFkN0lWTFRpeW1kTDIzSnBnM2pMN0lXQld2ZktOdzVJMXh5eVlWVGRSQ3N5b1pOZkE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=2s8z%2buGAFtPGNxcjDuXCIOx8h0s%3d
-#EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://dl.dropbox.com/scl/fi/cl3yci6npwj2cfaj3awp9/cna.png?rlkey=c75pyxpuhdz522fg1iti66wk7&st=edz81q7j&dl=0",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://dl.dropbox.com/scl/fi/ghux2zmwpznplp4pkla0h/suria.png?rlkey=rex9whcg3zpram0cmwak2u2kg&st=mg96ml9z&dl=0",Suria 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-
-#EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://dl.dropbox.com/scl/fi/35yom1qdhhyvqvhvdl2to/vasantham.png?rlkey=2vckxmxyxulq1px3tx6hs9ezx&st=ooc83i2r&dl=0",Vasantham 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
-https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
-#EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="1003" tvg-chno="1003" tvg-logo="https://dl.dropbox.com/scl/fi/f5o1xzqc6s5872e8kwev4/oktolidays.png?rlkey=3lps55l3hrbkta3kk6o0w0o1k&st=ch84riru&dl=0",oktolidays
-https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
-
-#EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="1006" tvg-chno="1006" tvg-logo="https://dl.dropbox.com/scl/fi/w0vh9ifjiofc6od7g8p8k/live1.png?rlkey=1rf1nu8n7kkt5cjcbu92drn16&st=aj7ag194&dl=0",meWATCH LIVE 1 
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=60dc08aae52f4c0b806a8e43f24a12c8&key=30d5b579966d822b215ec51a91d8a271
-#EXTINF:-1 group-title="● SINGAPORE ●" tvg-id="1007" tvg-chno="1007" tvg-logo="https://dl.dropbox.com/scl/fi/9f22osxkclh95ievhq1s4/live2.png?rlkey=e69e8gzctfayevvjsy11p9pmf&st=f9rsh2ue&dl=0",meWATCH LIVE 2
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title="● SINGAPORE ●",HBO (Sg)
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_hits.png" group-title="● SINGAPORE ●",HBO Hits (Sg)
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_family.png" group-title="● SINGAPORE ●",HBO Family (Sg)
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/hbo_sign.png" group-title="● SINGAPORE ●",HBO Signature (Sg)
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://hometv.pw/logo/movies2/cinemax.png" group-title="● SINGAPORE ●",Cinemax (Sg)
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
-
 
                      ●●●●● FILM ●●●●●
 
@@ -1803,9 +1731,6 @@ https://stream.hownetwork.xyz/xxx/siege-2023-webdl_X_9fff7af1/1000/480.m3u8
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/03/film-i-did-it-my-way-2023-lk21-d21.jpg.webp" group-title="● FILM ●",I Did It My Way 2023
 https://stream.hownetwork.xyz/xxx/i-did-it-my-way-2023-webdl_X_fa6a95f1/1000/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/07/film-the-roundup-no-way-out-2023-lk21-d21.jpg.webp" group-title="Lk21,The Roundup: No Way Out 2023
-https://stream.hownetwork.xyz/xxx/the-roundup-no-way-out-2023-bluray_X_63966b60/1000/480.m3u8
-
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2023/12/film-the-hunger-games-the-ballad-of-songbirds-snakes-2023-lk21-d21.jpg.webp" group-title="● FILM ●",The Hunger Games: The Ballad of Songbirds & Snakes 2023
 https://stream.hownetwork.xyz/xxx/the-hunger-games-the-ballad-of-songbirds-snakes-2023-bluray_X_25e55f7a/1000/480.m3u8
 
@@ -1839,9 +1764,6 @@ https://stream.hownetwork.xyz/xxx/danger-on-party-island-2024-webdl_X_34a3d8c6/1
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/04/film-abraham-ozler-2024-lk21-d21.jpg.webp" group-title="● FILM ●",Abraham Ozler 2024
 https://stream.hownetwork.xyz/xxx/abraham-ozler-2024-webdl_X_175ddc47/1000/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/03/film-two-of-us-2024-lk21-d21.jpg.webp" group-title="Lk21,Two of Us 2024
-https://stream.hownetwork.xyz/xxx/two-of-us-2024-webdl_X_b021d309/1000/480.m3u8
-
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/03/film-cold-meat-2024-lk21-d21.jpg.webp" group-title="● FILM ●",Cold Meat 2024
 https://stream.hownetwork.xyz/xxx/cold-meat-2024-webdl_X_701cbe06/1000/480.m3u8
 
@@ -1872,9 +1794,6 @@ https://stream.hownetwork.xyz/xxx/bursting-point-2023-bluray_X_4395f1e6/1000/480
 #EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/07/film-warhorse-one-2023-lk21-d21.jpg.webp" group-title="● FILM ●",Warhorse One 2023
 https://stream.hownetwork.xyz/xxx/warhorse-one-2023-bluray_X_2ebdc566/20/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/02/film-the-goldfinger-2023-lk21-d21.jpg.webp" group-title="Lk21,The Goldfinger 2023
-https://stream.hownetwork.xyz/xxx/the-goldfinger-2023-webdl_X_4646d54b/20/480.m3u8
-
 #EXTINF:-1 tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2023/05/film-fast-x-2023-lk21-d21.jpg.webp" group-title="● FILM ●",Fast X 2023
 https://stream.hownetwork.xyz/xxx/fast-x-2023-bluray_X_8af1501a/19/480.m3u8
 
@@ -1886,9 +1805,6 @@ https://stream.hownetwork.xyz/xxx/exquisite-bodyguard-2023-webdl_X_8b6cf182/19/4
 
 #EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2024/01/film-tokyo-revengers-2-bloody-halloween-destiny-2023-lk21-d21.jpg.webp" group-title="● FILM ●",Tokyo Revengers 2: Bloody Halloween – Destiny 2023
 https://stream.hownetwork.xyz/xxx/tokyo-revengers-2-bloody-halloween-destiny-2023-webdl_X_287a3177/19/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-kingdom-3-2023-lk21-d21.jpg.webp" group-title="Lk21,Kingdom 3 – Flame of Destiny
-https://stream.hownetwork.xyz/xxx/kingdom-3-2023-webdl_X_68e5ba72/19/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2024/02/film-no-way-up-2024-lk21-d21.jpg.webp" group-title="● FILM ●",No Way Up (2024)
 https://stream.hownetwork.xyz/xxx/no-way-up-2024-webdl_X_52701e64/20/480.m3u8
@@ -1950,9 +1866,6 @@ https://stream.hownetwork.xyz/xxx/smugglers-2023-webdl_X_4ada1624/18/480.m3u8
 #EXTINF:-1 tvg-logo="https://s7.lk21static.xyz/wp-content/uploads/2023/11/film-brave-citizen-2023-lk21-d21.jpg.webp" group-title="● FILM ●",Brave Citizen (2023)
 https://stream.hownetwork.xyz/xxx/brave-citizen-2023-webdl_X_84062000/18/480.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.lk21static.xyz/wp-content/uploads/2016/01/film-the-godfather-1972.jpg.webp" group-title="Lk21,The Godfather (1972)
-https://stream.hownetwork.xyz/xxx/the-godfather-1972-bluray/11/480.m3u8
-
 #EXTINF:-1 tvg-logo="https://s4.lk21static.xyz/wp-content/uploads/2017/11/film-border-shokuzai-2017.jpg.webp" group-title="● FILM ●",BORDER: Shokuzai
 https://stream.hownetwork.xyz/xxx/border-shokuzai-2017-bluray/6/480.m3u8
 
@@ -1997,12 +1910,6 @@ https://stream.hownetwork.xyz/xxx/godfather-part-ii-1974-bluray/3/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2016/07/film-good-bad-ugly-1966.jpg.webp" group-title="● FILM ●",The Good, the Bad and the Ugly (Il buono, il brutto, il cattivo) (1966)
 https://stream.hownetwork.xyz/xxx/good-bad-ugly-1966-bluray_X_0e995027/18/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-goodfellas-1990.jpg.webp" group-title="● FILM ●",Goodfellas (1990)
-https://stream.hownetwork.xyz/xxx/goodfellas-1990-bluray/2/480.m3u8
-
-#EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2015/12/film-goodfellas-1990.jpg.webp" group-title="Lk21,Goodfellas (1990)
-https://stream.hownetwork.xyz/xxx/goodfellas-1990-bluray/2/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://s5.lk21static.xyz/wp-content/uploads/2015/12/film-the-matrix-1999.jpg.webp" group-title="● FILM ●",The Matrix (1999)
 https://stream.hownetwork.xyz/xxx/the-matrix-1999-bluray/3/480.m3u8
@@ -2129,3 +2036,233 @@ https://stream.hownetwork.xyz/xxx/showbiz-● ANAK ●-2020-webdl_X_d35f43a0/21/
 
 #EXTINF:-1 tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2024/04/film-15-minutes-of-shame-2021-lk21-d21.jpg.webp" group-title="● FILM ●",15 Minutes of Shame (2021)
 https://stream.hownetwork.xyz/xxx/15-minutes-of-shame-2021-webdl_X_91d42ef0/21/480.m3u8
+
+#================================WarKop DKI================================#
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RNxqhxz/Warkop1.jpg" group-title="WarKop DKI", Warkop DKI Reborn: Jangkrik Boss! Part 1 (2016)
+https://koceng.nofendraedi.workers.dev/WK1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j62Rx3J/Warkop2.jpg" group-title="WarKop DKI", Warkop DKI Reborn: Jangkrik Boss! Part 2 (2017)
+https://koceng.nofendraedi.workers.dev/WK2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvk1cNC/Warkop3.jpg" group-title="WarKop DKI", Warkop DKI Reborn: Part 3 (2019)
+https://koceng.nofendraedi.workers.dev/WK3.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Tc7Rw7B/Warkop-DKI-Reborn-4-2020.jpg" group-title="WarKop DKI", Warkop DKI Reborn 4 (2020)
+https://koceng.nofendraedi.workers.dev/WK4.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/CJVWnw6/Mana-Tahaaan-1979.jpg" group-title="WarKop DKI", Mana Tahaaan… (1979)
+https://hadeh.pitoyoabdi.workers.dev/Mana%20Tahan%20(1979).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DtMGyYs/Gengsi-Dong-1980.jpg" group-title="WarKop DKI", Gengsi Dong (1980)
+https://hadeh.pitoyoabdi.workers.dev/Gengsi%20Dong%20(1980).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xG2Z1hP/Pintar-Pintar-Bodoh-1980.jpg" group-title="WarKop DKI", Pintar Pintar Bodoh (1980) 
+https://hadeh.pitoyoabdi.workers.dev/Pintar%20Pintar%20Bodoh%20(1980).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/c1cCZ3Q/Ge-Er-Gede-Rasa-1980.jpg" group-title="WarKop DKI", GeEr – Gede Rasa (1980)
+https://hadeh.pitoyoabdi.workers.dev/geer-gede-rasa-1980.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2KgGTqt/Manusia-6-000-000-Dollar-1981.jpg" group-title="WarKop DKI", Manusia 6.000.000 Dollar (1981)
+https://hadeh.pitoyoabdi.workers.dev/Manusia%206%20Juta%20Dolar.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/LCXTcrn/IQ-Jongkok-1981.jpg" group-title="WarKop DKI", IQ Jongkok (1981)
+https://hadeh.pitoyoabdi.workers.dev/IQ%20Jongkok%20(1981).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/kx1Ps5L/Setan-Kredit-1981.jpg" group-title="WarKop DKI", Setan Kredit (1981)
+https://hadeh.pitoyoabdi.workers.dev/Setan.Kredit.1982.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/BgJcF32/Dongkrak-Antik-1982.jpg" group-title="WarKop DKI", Dongkrak Antik (1982)
+https://hadeh.pitoyoabdi.workers.dev/Dongkrak%20Antik%20(1982).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7nwGy3D/Chips-1982.jpg" group-title="WarKop DKI", Chips (1982) 
+https://hadeh.pitoyoabdi.workers.dev/CHIPS.1982.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/J2mrDzv/Maju-Kena-Mundur-Kena-1983.jpg" group-title="WarKop DKI", Maju Kena Mundur Kena (1983) 
+https://hadeh.pitoyoabdi.workers.dev/Maju.Kena.Mundur.Kena.1983.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/JQhFTX6/Pokoknya-Beres-1983.jpg" group-title="WarKop DKI", Pokoknya Beres (1983)
+https://hadeh.pitoyoabdi.workers.dev/Pokoknya%20beres%20(1983).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/M86wDjF/Itu-Bisa-Diatur-1984.jpg" group-title="WarKop DKI", Itu Bisa Diatur (1984)
+https://hadeh.pitoyoabdi.workers.dev/Itu%20Bisa%20Diatur%20(1984).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gJHfjQ8/Tahu-Diri-Dong-1984.jpg" group-title="WarKop DKI", Tahu Diri Dong (1984)
+https://hadeh.pitoyoabdi.workers.dev/tahu-diri-dong-1984.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nPNgFrD/Kesempatan-Dalam-Kesempitan-1985.jpg" group-title="WarKop DKI", Kesempatan Dalam Kesempitan (1985) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Kesempatan%20Dalam%20Kesempitan%20(1985).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/3rLJ1Rt/Gantian-Dong-1985.jpg" group-title="WarKop DKI", Gantian Dong (1985)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Gantian%20Dong%20(1985).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gvYrfGB/Atas-Boleh-Bawah-Boleh-1986.jpg" group-title="WarKop DKI", Atas Boleh Bawah Boleh (1986)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Atas.Boleh.Bawah.Boleh.1986.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DGZ8cxv/Sama-Juga-Bohong-1986.jpg" group-title="WarKop DKI", Sama Juga Bohong (1986)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sama.Juga.Bohong.1986.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/khrxjFp/Depan-Bisa-Belakang-Bisa-1987.jpg" group-title="WarKop DKI", Depan Bisa Belakang Bisa (1987)
+https://hadeh.pitoyoabdi.workers.dev/Depan.Bisa.Belakang.Bisa.1987.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vV4sSM2/Makin-Lama-Makin-Asyik-1987.jpg" group-title="WarKop DKI", Makin Lama Makin Asyik (1987)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Makin%20Lama%20Makin%20Asyik%20(1987).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/NsZw7YG/Saya-Suka-Kamu-Punya-1987.jpg" group-title="WarKop DKI", Saya Suka Kamu Punya (1987)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Saya.Suka.Kamu.Punya.1987.mkv
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/TBf9ZtS/Jodoh-Boleh-Diatur-1988.jpg" group-title="WarKop DKI", Jodoh Boleh Diatur (1988)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Jodoh%20Boleh%20Diatur%20(1988).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/1qR5YHs/Malu-Malu-Mau-1988.jpg" group-title="WarKop DKI", Malu-Malu Mau (1988)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Malu.Malu.Mau.1988.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/cX8wRLZ/Godain-Kita-Dong-1989.jpg" group-title="WarKop DKI", Godain Kita Dong (1989)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Godain%20Kita%20Dong%20(1989).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mbqHrCM/Sabar-Dulu-Doong-1989.jpg" group-title="WarKop DKI", Sabar Dulu Doong…! (1989)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sabar%20Dulu%20Dong%20(1989).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/R01JKV9/Mana-Bisa-Tahan-1990.jpg" group-title="WarKop DKI", Mana Bisa Tahan (1990)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Mana%20bisa%20tahan%20(1990).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mGLqWr0/Sudah-Pasti-Tahan-1991.jpg" group-title="WarKop DKI", Sudah Pasti Tahan (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sudah%20Pasti%20Tahan%20(1991).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zrLrZZf/Bisa-Naik-Bisa-Turun-1991.jpg" group-title="WarKop DKI", Bisa Naik Bisa Turun (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bisa.Naik.Bisa.Turun.1992.mkv
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/72RnJp0/Lupa-Aturan-Main-1991.jpg" group-title="WarKop DKI", Lupa Aturan Main (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Lupa%20Aturan%20Main%20(1990).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/t886WQ5/Masuk-Kena-Keluar-Kena-1992.jpg" group-title="WarKop DKI", Masuk Kena Keluar Kena (1992)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Masuk%20Kena%20Keluar%20Kena%20(1992).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/27qNJNT/Salah-Masuk-1992.jpg" group-title="WarKop DKI", Salah Masuk (1992)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Salah%20Masuk%20(1992).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8cdZwgg/Bebas-Aturan-Main-1993.jpg" group-title="WarKop DKI", Bebas Aturan Main (1993)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bebas%20Aturan%20Main%20(1993).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2nWKQTY/Bagi-Bagi-Dong-1993.jpg" group-title="WarKop DKI", Bagi-Bagi Dong (1993)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bagi-Bagi%20Dong%20(1993).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/b2YrZmZ/Saya-Duluan-Dong-1994.jpg" group-title="WarKop DKI", Saya Duluan Dong (1994) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Saya%20Duluan%20Dong%20(1994).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/L9VHFh7/Pencet-Sana-Pencet-Sini-1994.jpg" group-title="WarKop DKI", Pencet Sana Pencet Sini (1994) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Pencet%20Sana%20Pencet%20Sini%20(1994).mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RNxqhxz/Warkop1.jpg" group-title="WarKop DKI", Warkop DKI Reborn: Jangkrik Boss! Part 1 (2016)
+https://koceng.nofendraedi.workers.dev/WK1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j62Rx3J/Warkop2.jpg" group-title="WarKop DKI", Warkop DKI Reborn: Jangkrik Boss! Part 2 (2017)
+https://koceng.nofendraedi.workers.dev/WK2.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvk1cNC/Warkop3.jpg" group-title="WarKop DKI", Warkop DKI Reborn: Part 3 (2019)
+https://koceng.nofendraedi.workers.dev/WK3.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/Tc7Rw7B/Warkop-DKI-Reborn-4-2020.jpg" group-title="WarKop DKI", Warkop DKI Reborn 4 (2020)
+https://koceng.nofendraedi.workers.dev/WK4.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/CJVWnw6/Mana-Tahaaan-1979.jpg" group-title="WarKop DKI", Mana Tahaaan… (1979)
+https://hadeh.pitoyoabdi.workers.dev/Mana%20Tahan%20(1979).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DtMGyYs/Gengsi-Dong-1980.jpg" group-title="WarKop DKI", Gengsi Dong (1980)
+https://hadeh.pitoyoabdi.workers.dev/Gengsi%20Dong%20(1980).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xG2Z1hP/Pintar-Pintar-Bodoh-1980.jpg" group-title="WarKop DKI", Pintar Pintar Bodoh (1980) 
+https://hadeh.pitoyoabdi.workers.dev/Pintar%20Pintar%20Bodoh%20(1980).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/c1cCZ3Q/Ge-Er-Gede-Rasa-1980.jpg" group-title="WarKop DKI", GeEr – Gede Rasa (1980)
+https://hadeh.pitoyoabdi.workers.dev/geer-gede-rasa-1980.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2KgGTqt/Manusia-6-000-000-Dollar-1981.jpg" group-title="WarKop DKI", Manusia 6.000.000 Dollar (1981)
+https://hadeh.pitoyoabdi.workers.dev/Manusia%206%20Juta%20Dolar.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/LCXTcrn/IQ-Jongkok-1981.jpg" group-title="WarKop DKI", IQ Jongkok (1981)
+https://hadeh.pitoyoabdi.workers.dev/IQ%20Jongkok%20(1981).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/kx1Ps5L/Setan-Kredit-1981.jpg" group-title="WarKop DKI", Setan Kredit (1981)
+https://hadeh.pitoyoabdi.workers.dev/Setan.Kredit.1982.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/BgJcF32/Dongkrak-Antik-1982.jpg" group-title="WarKop DKI", Dongkrak Antik (1982)
+https://hadeh.pitoyoabdi.workers.dev/Dongkrak%20Antik%20(1982).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7nwGy3D/Chips-1982.jpg" group-title="WarKop DKI", Chips (1982) 
+https://hadeh.pitoyoabdi.workers.dev/CHIPS.1982.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/J2mrDzv/Maju-Kena-Mundur-Kena-1983.jpg" group-title="WarKop DKI", Maju Kena Mundur Kena (1983) 
+https://hadeh.pitoyoabdi.workers.dev/Maju.Kena.Mundur.Kena.1983.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/JQhFTX6/Pokoknya-Beres-1983.jpg" group-title="WarKop DKI", Pokoknya Beres (1983)
+https://hadeh.pitoyoabdi.workers.dev/Pokoknya%20beres%20(1983).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/M86wDjF/Itu-Bisa-Diatur-1984.jpg" group-title="WarKop DKI", Itu Bisa Diatur (1984)
+https://hadeh.pitoyoabdi.workers.dev/Itu%20Bisa%20Diatur%20(1984).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gJHfjQ8/Tahu-Diri-Dong-1984.jpg" group-title="WarKop DKI", Tahu Diri Dong (1984)
+https://hadeh.pitoyoabdi.workers.dev/tahu-diri-dong-1984.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nPNgFrD/Kesempatan-Dalam-Kesempitan-1985.jpg" group-title="WarKop DKI", Kesempatan Dalam Kesempitan (1985) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Kesempatan%20Dalam%20Kesempitan%20(1985).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/3rLJ1Rt/Gantian-Dong-1985.jpg" group-title="WarKop DKI", Gantian Dong (1985)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Gantian%20Dong%20(1985).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gvYrfGB/Atas-Boleh-Bawah-Boleh-1986.jpg" group-title="WarKop DKI", Atas Boleh Bawah Boleh (1986)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Atas.Boleh.Bawah.Boleh.1986.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DGZ8cxv/Sama-Juga-Bohong-1986.jpg" group-title="WarKop DKI", Sama Juga Bohong (1986)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sama.Juga.Bohong.1986.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/khrxjFp/Depan-Bisa-Belakang-Bisa-1987.jpg" group-title="WarKop DKI", Depan Bisa Belakang Bisa (1987)
+https://hadeh.pitoyoabdi.workers.dev/Depan.Bisa.Belakang.Bisa.1987.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vV4sSM2/Makin-Lama-Makin-Asyik-1987.jpg" group-title="WarKop DKI", Makin Lama Makin Asyik (1987)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Makin%20Lama%20Makin%20Asyik%20(1987).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/NsZw7YG/Saya-Suka-Kamu-Punya-1987.jpg" group-title="WarKop DKI", Saya Suka Kamu Punya (1987)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Saya.Suka.Kamu.Punya.1987.mkv
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/TBf9ZtS/Jodoh-Boleh-Diatur-1988.jpg" group-title="WarKop DKI", Jodoh Boleh Diatur (1988)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Jodoh%20Boleh%20Diatur%20(1988).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/1qR5YHs/Malu-Malu-Mau-1988.jpg" group-title="WarKop DKI", Malu-Malu Mau (1988)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Malu.Malu.Mau.1988.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/cX8wRLZ/Godain-Kita-Dong-1989.jpg" group-title="WarKop DKI", Godain Kita Dong (1989)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Godain%20Kita%20Dong%20(1989).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mbqHrCM/Sabar-Dulu-Doong-1989.jpg" group-title="WarKop DKI", Sabar Dulu Doong…! (1989)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sabar%20Dulu%20Dong%20(1989).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/R01JKV9/Mana-Bisa-Tahan-1990.jpg" group-title="WarKop DKI", Mana Bisa Tahan (1990)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Mana%20bisa%20tahan%20(1990).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mGLqWr0/Sudah-Pasti-Tahan-1991.jpg" group-title="WarKop DKI", Sudah Pasti Tahan (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sudah%20Pasti%20Tahan%20(1991).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zrLrZZf/Bisa-Naik-Bisa-Turun-1991.jpg" group-title="WarKop DKI", Bisa Naik Bisa Turun (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bisa.Naik.Bisa.Turun.1992.mkv
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/72RnJp0/Lupa-Aturan-Main-1991.jpg" group-title="WarKop DKI", Lupa Aturan Main (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Lupa%20Aturan%20Main%20(1990).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/t886WQ5/Masuk-Kena-Keluar-Kena-1992.jpg" group-title="WarKop DKI", Masuk Kena Keluar Kena (1992)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Masuk%20Kena%20Keluar%20Kena%20(1992).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/27qNJNT/Salah-Masuk-1992.jpg" group-title="WarKop DKI", Salah Masuk (1992)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Salah%20Masuk%20(1992).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8cdZwgg/Bebas-Aturan-Main-1993.jpg" group-title="WarKop DKI", Bebas Aturan Main (1993)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bebas%20Aturan%20Main%20(1993).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2nWKQTY/Bagi-Bagi-Dong-1993.jpg" group-title="WarKop DKI", Bagi-Bagi Dong (1993)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bagi-Bagi%20Dong%20(1993).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/b2YrZmZ/Saya-Duluan-Dong-1994.jpg" group-title="WarKop DKI", Saya Duluan Dong (1994) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Saya%20Duluan%20Dong%20(1994).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/L9VHFh7/Pencet-Sana-Pencet-Sini-1994.jpg" group-title="WarKop DKI", Pencet Sana Pencet Sini (1994) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Pencet%20Sana%20Pencet%20Sini%20(1994).mp4
