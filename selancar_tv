@@ -7,7 +7,7 @@
 #EXTINF:-1 tvg-logo=https://i.ibb.co.com/fXNkPLX/C-A-U.png" group-title="● LIVE COMOTAN ●", TEST
 #EXTVLCOPT:http-referrer=https://cdnjkt4.transvision.co.id/
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://cdnjkt4.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+https://cdnjkt4.transvision.co.id/live/init/4028c6856c3db2cc016cd6e773b02392/700/init-stream0
 
 #EXTINF:-1 tvg-id="" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="● OPPLEX ●",ID: ANIMAL PLANET
 http://xtv.ooo:8080/83212539/43153928/350889
