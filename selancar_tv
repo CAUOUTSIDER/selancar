@@ -1,6 +1,14 @@
               ●●●●● NOT FOR SALE...!!! ●●●●●
 
+
+                     ●●●●● LIVE COMOTAN ●●●●
+
 #EXTM3U
+#EXTINF:-1 tvg-logo=https://i.ibb.co.com/fXNkPLX/C-A-U.png" group-title="● LIVE COMOTAN ●", TEST
+#EXTVLCOPT:http-referrer=https://master-stream2my.id
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://livecdn.rumsport.com/stream/47/l_9919_37061796_9265.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="● OPPLEX ●",ID: ANIMAL PLANET
 http://xtv.ooo:8080/83212539/43153928/350889
 #EXTINF:-1 tvg-id="" tvg-name="ID: Animax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="● OPPLEX ●",ID: Animax
@@ -2461,9 +2469,3 @@ https://stream.hownetwork.xyz/yyy/stand-doraemon-2014-bluray/2/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KIDS MOVIE 4" tvg-logo="https://material.asset.catchplay.com/ODE-ID-002-A1000/artworks/posters/ODE-ID-002-A1000-P1200.jpg?hash=1722800461" group-title="● KIDS MOVIE ●",Stand by Me 2
 https://stream.hownetwork.xyz/yyy/stand-by-me-doraemon-2-2020-bluray_X_e26dc36e/18/480.m3u8
 
-                     ●●●●● LIVE COMOTAN ●●●●
-
-#EXTINF:-1 tvg-logo=https://i.ibb.co.com/fXNkPLX/C-A-U.png" group-title="● LIVE COMOTAN ●", TEST
-#EXTVLCOPT:http-referrer=https://master-stream2my.id
-#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://fhlsport.fls77.xyz/token-LEZ9yuadLvGG7WMuwPY6yziClMDU1n%2FjOiCix6NLFDjysrGaHUFdCIglqRBNVEVJBCeIxDdolvY%3Da/cfall/s2/v3b/942575n2nUE0pUZ6Yl9fnKMyL2EhYaW1oKAjo3W0YzAioD%3D%3D/stream/47/chunks.m3u8
