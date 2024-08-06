@@ -2307,6 +2307,6 @@ https://stream.hownetwork.xyz/yyy/stand-doraemon-2014-bluray/2/480.m3u8
 https://stream.hownetwork.xyz/yyy/stand-by-me-doraemon-2-2020-bluray_X_e26dc36e/18/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="● KIDS MOIE ●", TEST
-#EXTVLCOPT:http-referrer=http://aflaxtv.xyz:8080/
+#EXTVLCOPT:http-referrer=http://194.120.144.74:8070/
 #EXTVLCOPT:http-user-agent=VibeTV/2.6 (Android 10)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
+http://194.120.144.74:8070/2c258a9b/c73f1cfbce/298550
