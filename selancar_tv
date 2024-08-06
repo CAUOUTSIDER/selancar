@@ -2302,3 +2302,6 @@ https://stream.hownetwork.xyz/yyy/doraemon-nobita-green-giant-legend-2008-bluray
 
 #EXTINF:-1 tvg-id="" tvg-name="KIDS MOVIE 3" tvg-logo="https://i.ytimg.com/vi/QamWJ4T65j8/mqdefault.jpg" group-title="● KIDS MOVIE ●",Stand by Me
 https://stream.hownetwork.xyz/yyy/stand-doraemon-2014-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS MOVIE 4" tvg-logo="https://material.asset.catchplay.com/ODE-ID-002-A1000/artworks/posters/ODE-ID-002-A1000-P1200.jpg?hash=1722800461" group-title="● KIDS MOVIE ●",Stand by Me 2
+https://stream.hownetwork.xyz/yyy/stand-by-me-doraemon-2-2020-bluray_X_e26dc36e/18/480.m3u8
