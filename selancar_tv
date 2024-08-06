@@ -2306,5 +2306,7 @@ https://stream.hownetwork.xyz/yyy/stand-doraemon-2014-bluray/2/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KIDS MOVIE 4" tvg-logo="https://material.asset.catchplay.com/ODE-ID-002-A1000/artworks/posters/ODE-ID-002-A1000-P1200.jpg?hash=1722800461" group-title="● KIDS MOVIE ●",Stand by Me 2
 https://stream.hownetwork.xyz/yyy/stand-by-me-doraemon-2-2020-bluray_X_e26dc36e/18/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="KIDS MOVIE 5" tvg-logo="https://material.asset.catchplay.com/ODE-ID-002-A1000/artworks/posters/ODE-ID-002-A1000-P1200.jpg?hash=1722800461" group-title="● KIDS MOVIE ●",test
-https://www.youtube.com/watch?v=CgdXonKcnjk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="● KIDS MOIE ●", TEST
+#EXTVLCOPT:http-referrer=http://aflaxtv.xyz:8080/
+#EXTVLCOPT:http-user-agent=VibeTV/2.6 (Android 10)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
