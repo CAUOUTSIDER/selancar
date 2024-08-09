@@ -10,9 +10,9 @@
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 
 #EXTINF:-1 tvg-logo=https://i.ibb.co.com/fXNkPLX/C-A-U.png" group-title="● LIVE COMOTAN ●", LIVE 2
-#EXTVLCOPT:http-referrer=http://918392487771290348.ofre802.xyz:80/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.152 Mobile Safari/537.36
-http://918392487771290348.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290348.ts
+#EXTVLCOPT:http-referrer=cempedak-live-cdn.mncnow.id
+#EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTINF:-1 tvg-logo=https://i.ibb.co.com/fXNkPLX/C-A-U.png" group-title="● LIVE COMOTAN ●", LIVE 3
 #EXTVLCOPT:http-referrer=http://918392487771290348.ofre802.xyz:80/
