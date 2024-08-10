@@ -5,9 +5,9 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-logo=https://i.ibb.co.com/fXNkPLX/C-A-U.png" group-title="● LIVE COMOTAN ●", LIVE BRI LIGA 1
-#EXTVLCOPT:http-referrer=http://aflaxtv.xyz:8080/
+#EXTVLCOPT:http-referrer=https://tvku.tsuchikage.my.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.152 Mobile Safari/537.36
-https://proxy.tsuchikage.my.id/https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17622_480p/hdntl=exp=1723298873~acl=/*~id=163816171~data=hdntl~hmac=c160bfd6e254d209564a3dce59aacec04f668cae17a4905939863a34157cb2fc/index.m3u8
+https://proxy.tsuchikage.my.id/https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_480p/hdntl=exp=1723299652~acl=/*~id=163816171~data=hdntl~hmac=1777a503b9c3f6a0a64b3f0859a383f53a3145b757c6bff4563b7a5a7f53f62f/index.m3u8
 
 #EXTINF:-1 tvg-logo=https://i.ibb.co.com/fXNkPLX/C-A-U.png" group-title="● LIVE COMOTAN ●", LIVE BRI
 #EXTVLCOPT:http-referrer=https://cempedak-live-cdn.mncnow.id/
