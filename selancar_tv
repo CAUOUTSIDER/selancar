@@ -10,9 +10,9 @@
 https://proxy.tsuchikage.my.id/https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_360p/hdntl=exp=1723299653~acl=/*~id=37447677~data=hdntl~hmac=109c6689dac7dce96fb8899369ba9e9812c3f6767ac702a434d0ec3a3a225c91/index.m3u8
 
 #EXTINF:-1 tvg-logo=https://i.ibb.co.com/fXNkPLX/C-A-U.png" group-title="● LIVE COMOTAN ●", LIVE BRI
-#EXTVLCOPT:http-referrer=https://cempedak-live-cdn.mncnow.id/
+#EXTVLCOPT:http-referrer=https://myteve.online:8080/
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
-https://proxy.tsuchikage.my.id/https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17622_480p/hdntl=exp=1723298872~acl=/*~id=163816171~data=hdntl~hmac=8f897d576acd5280758b0b96e41f31702771a2b2a5f8ce6bc9bed90a125c55c5/index.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
 #EXTINF:-1 tvg-logo=https://i.ibb.co.com/fXNkPLX/C-A-U.png" group-title="● LIVE COMOTAN ●", LIVE 3
 #EXTVLCOPT:http-referrer=http://918392487771290348.ofre802.xyz:80/
